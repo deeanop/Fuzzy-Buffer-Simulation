@@ -1,2 +1,3 @@
 packet IPPacket{
     int priority;
+}
